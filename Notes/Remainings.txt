@@ -30,7 +30,3 @@ Contact Us Page:-
 
 Services and Products Folder:-
     Must check the path specified in header and footer
-
-
-
-about agency in about us

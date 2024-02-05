@@ -41,100 +41,6 @@
     </header>
     <!-- end header -->
     <div class="main-content">
-        <!-- start revolution slider -->
-        <section class="p-0 example home-branding-agency bg-white">
-            <article class="content">
-                <div id="rev_slider_32_1_wrapper" class="rev_slider_wrapper fullscreen-container md-h-700px sm-h-400px"
-                    data-alias="mask-showcase" data-source="gallery">
-                    <!-- START REVOLUTION SLIDER 5.4.1 fullscreen mode -->
-                    <div id="rev_slider_32_1" class="rev_slider fullscreenbanner" style="display: none"
-                        data-version="5.4.1">
-                        <ul>
-                            <!-- SLIDE 01 -->
-                            <li data-index="rs-73" data-transition="fade" data-slotamount="default"
-                                data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
-                                data-easeout="default" data-masterspeed="300"
-                                data-thumb="http://works.themepunch.com/revolution_5_3/wp-content/" data-rotate="0"
-                                data-saveperformance="off" data-title="01" data-param1="01" data-description="">
-                                <!-- MAIN IMAGE -->
-                                <img src="images/home-branding-agency-bg-img-03.png" alt=""
-                                    data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
-                                    data-bgcolor="#F3F3F3" data-bgparallax="off" class="rev-slidebg" data-no-retina />
-
-                                <!-- gradient line layer -->
-                                <div class="tp-caption tp-resizeme" data-frames='[{"delay": 500, "speed": 300, "from": "opacity: 0", "to": "opacity: 1"}, 
-                                         {"delay": "wait", "speed": 300, "to": "opacity: 0"}]'
-                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                    data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','-30']"
-                                    data-width="100%" data-height="100%" data-basealign="slide">
-                                    <div class="drawing-animation-wrapper">
-                                        <svg class="drawing-animation" width="100%" height="100%"
-                                            viewBox="0 0 6400 1050" style="transform: scale(1.5)">
-                                            <defs>
-                                                <linearGradient id="gradiant" x1="0%" y1="0%" x2="100%" y2="0%">
-                                                    <stop offset="0%" stop-color="#98fb98"></stop>
-                                                    <stop offset="20%" stop-color="#6495ed"></stop>
-                                                    <stop offset="40%" stop-color="#8a2be2"></stop>
-                                                    <stop offset="60%" stop-color="#a020f0"></stop>
-                                                    <stop offset="80%" stop-color="#8b008b"></stop>
-                                                    <stop offset="100%" stop-color="#ff1493"></stop>
-                                                </linearGradient>
-                                            </defs>
-                                            <g style="transform: translateX(443px)">
-                                                <path fill="none" stroke="url(#gradiant)"
-                                                    d="M-11,418c118-76,269-119,416-120,540-3,719,538,1180,682,385,120,973,0,877-510-29-155-127-293-259-375-247-154-575-73-710,134-147,225-24,525,203,644,170,88,390,88,575,12C2775,675,3164,9,3693,170c330,99,425,481,199,728-177,192-506,187-627-45-145-280,78-542,354-564,226-17,344,112,465,231,92,89,203,150,320,176,218,49,365-35,522-132" />
-                                            </g>
-                                        </svg>
-                                    </div>
-                                </div>
-
-                                <!-- Branding text layer -->
-                                <div class="tp-caption alt-font tp-resizeme font-weight-600 rs-parallaxlevel-2"
-                                    id="slide-1-layer-5" data-x="['center','center','center','center']"
-                                    data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-                                    data-voffset="['0','0','0','-30']" data-whitespace="nowrap" data-type="text"
-                                    data-responsive_offset="on" data-fontsize="['200','150','110','80']"
-                                    data-lineheight="['250','150','100','65']"
-                                    data-letterspacing="['-12','-4','-4','-4']" data-color="#232323"
-                                    data-frames='[{"delay":3500,"split":"chars","splitdelay":0.3,"speed":2500,"split_direction":"random","frame":"0","from":"y:50px;sX:1;sY:1;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'
-                                    data-textAlign="['center','center','center','center']"
-                                    style="z-index: 7; white-space: nowrap">
-                                    Print & Plot
-                                </div>
-
-                                <!-- small text layer -->
-                                <div class="tp-caption tp-resizeme alt-font font-weight-400"
-                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                    data-y="['bottom','bottom','bottom','bottom']"
-                                    data-voffset="['130','85','80','100']" data-width="none" data-height="none"
-                                    data-whitespace="nowrap" data-fontsize="['20','18','18','18']"
-                                    data-lineheight="['25','27','30','27']" data-letterspacing="['-1','-1','-1','-1']"
-                                    data-color="#232323" data-type="text" data-responsive_offset="on"
-                                    data-responsive="on"
-                                    data-frames='[{"from":"Y:-50px;opacity:0;","speed":1000,"to":"Y:0;o:1;","delay":3700,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1500,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                                    data-textAlign="['center','center','center','center']">
-                                    Where Quality Meets Creativity
-                                </div>
-
-                                <!-- Mouse icon Layer -->
-                                <a class="tp-caption tp-resizeme alt-font font-weight-600 section-link"
-                                    href="#down-section" data-x="['center','center','center','center']"
-                                    data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']"
-                                    data-voffset="['45','30','30','30']" data-width="none" data-height="none"
-                                    data-whitespace="nowrap" data-fontsize="['27','27','27','35']"
-                                    data-lineheight="['27','27','27','50']" data-letterspacing="['0','1','1','1']"
-                                    data-color="#232323" data-type="text" data-responsive_offset="on"
-                                    data-responsive="on"
-                                    data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[150%];s:inherit;e:inherit;","speed":1000,"to":"o:1;","delay":3800,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-                                    data-textAlign="['center','center','center','center']" style="z-index: 10">
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </article>
-        </section>
-        <!-- end revolution slider -->
         <!-- start section -->
         <section id="down-section" class="p-0">
             <div class="container-fluid">
@@ -142,8 +48,7 @@
                     <div
                         class="col-12 col-lg-2 col-md-4 d-flex flex-column justify-content-center border-right border-color-light-gray p-0 sm-h-400px sm-no-border-all wow animate__fadeIn">
                         <div class="content-box-image cover-background overflow-visible position-relative" style="
-                  background-image: url('https://via.placeholder.com/645x638');
-                ">
+                  background-image: url('https://via.placeholder.com/645x638');">
                             <div class="d-sm-flex align-items-center justify-content-center rounded-circle w-130px h-130px md-h-100px md-w-100px bg-white box-shadow-extra-large position-absolute top-minus-70px right-minus-60px md-right-minus-50px md-top-minus-50px sm-top-0px sm-right-0px d-none wow animate__zoomIn"
                                 data-wow-delay="0.2s">
                                 <h1
@@ -156,8 +61,7 @@
                     <div class="col-12 col-xl-4 col-lg-6 col-md-8 d-flex flex-column justify-content-center padding-eight-lr padding-twelve-tb xl-padding-four-lr xl-padding-eight-tb lg-padding-seven-lr md-padding-ten-all xs-no-border-bottom wow animate__fadeIn"
                         data-wow-delay="0.9s">
                         <span
-                            class="alt-font font-weight-500 text-fast-blue text-uppercase d-block text-large margin-30px-bottom">About
-                            agency</span>
+                            class="alt-font font-weight-500 text-fast-blue text-uppercase d-block text-large margin-30px-bottom">About Us</span>
                         <h4
                             class="alt-font font-weight-600 text-extra-dark-gray letter-spacing-minus-2px margin-3-rem-bottom">
                             Provide branding solutions to grow your business
