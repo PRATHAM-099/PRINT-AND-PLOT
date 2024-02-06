@@ -32,11 +32,11 @@
                                         alt="labels" />&nbsp;
                                     Stickers and Labels<i class="fas fa-angle-right dropdown-toggle"
                                         data-bs-toggle="dropdown" aria-hidden="true"></i></a>
-                                <ul class="dropdown-menu" role="menu" style="width: fit-content">
+                                <ul class="dropdown-menu" role="menu" style="width: max-content">
                                     <div class="d-lg-flex justify-content-center">
                                         <ul class="d-lg-inline-block">
-                                            <li class="dropdown-header" style="font-weight: 500; font-size: large">
-                                                Stickers By Material
+                                            <li>
+                                                <a style="font-weight: 500; font-size: medium; color:black;" href="">Stickers By Material</a>
                                             </li>
                                             <li>
                                                 <a href="#">3D Raised & Embossed UV
@@ -93,8 +93,8 @@
                                             </li>
                                         </ul>
                                         <ul class="d-lg-inline-block">
-                                            <li class="dropdown-header" style="font-weight: 500; font-size: large">
-                                                Stickers By Use
+                                            <li>
+                                                <a style="font-weight: 500; font-size: medium; color:black;" href="">Stickers By Use</a>
                                             </li>
                                             <li>
                                                 <a href="#">Metal Stickersm</a>
@@ -152,11 +152,11 @@
                                         src="https://img.icons8.com/external-others-pike-picture/50/external-business-strategy-manager-job-others-pike-picture-8.png"
                                         alt="external-business-strategy-manager-job-others-pike-picture-8" />&nbsp;
                                     Business Essentials<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                <ul class="dropdown-menu" style="width: fit-content">
+                                <ul class="dropdown-menu" style="width: max-content">
                                     <div class="d-lg-flex justify-content-center">
                                         <ul class="d-lg-inline-block">
-                                            <li class="dropdown-header" style="font-weight: 500; font-size: medium">
-                                                Office Essentials
+                                            <li>
+                                                <a style="font-weight: 500; font-size: medium; color:black;" href="">Office Essentials</a>
                                             </li>
                                             <li>
                                                 <a href="#">Business Cards</a>
@@ -206,11 +206,11 @@
                                         width="30" height="30" src="https://img.icons8.com/ios/50/cardboard-box.png"
                                         alt="cardboard-box" />&nbsp; Packaging<i
                                         class="fas fa-angle-right dropdown-toggle"></i></a>
-                                <ul class="dropdown-menu" style="width: fit-content">
+                                <ul class="dropdown-menu" style="width: max-content">
                                     <div class="d-lg-flex justify-content-center">
                                         <ul class="d-lg-inline-block">
-                                            <li class="dropdown-header" style="font-weight: 500; font-size: medium">
-                                                Packaging
+                                            <li>
+                                                <a style="font-weight: 500; font-size: medium; color:black;" href="">Packaging Essentials</a>
                                             </li>
                                             <li>
                                                 <a href="#">Stickers</a>
@@ -240,11 +240,11 @@
                                         src="https://img.icons8.com/external-xnimrodx-lineal-xnimrodx/50/external-brochures-real-estate-xnimrodx-lineal-xnimrodx.png"
                                         alt="external-brochures-real-estate-xnimrodx-lineal-xnimrodx" />&nbsp;
                                     Marketing Collaterals<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                <ul class="dropdown-menu" style="width: fit-content">
+                                <ul class="dropdown-menu" style="width: max-content">
                                     <div class="d-lg-flex justify-content-center">
                                         <ul class="d-lg-inline-block">
-                                            <li class="dropdown-header" style="font-weight: 500; font-size: large">
-                                                Marketing Colletrals
+                                            <li>
+                                                <a style="font-weight: 500; font-size: medium; color:black;" href="">Marketing Colletrals</a>
                                             </li>
                                             <li>
                                                 <a href="#">Brochures</a>
