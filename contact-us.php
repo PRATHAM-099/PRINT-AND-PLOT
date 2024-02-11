@@ -10,10 +10,10 @@
     <meta name="description"
         content="" />
     <!-- favicon icon -->
-    <link rel="shortcut icon" href="images/pp-logo.png" />
-    <link rel="apple-touch-icon" href="images/pp-logo.png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="images/pp-logo.png" />
-    <link rel="apple-touch-icon" sizes="114x114" href="images/pp-logo.png" />
+    <link rel="shortcut icon" href="images/pp-favicon.png" />
+    <link rel="apple-touch-icon" href="images/pp-favicon.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="images/pp-favicon.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="images/pp-favicon.png" />
     <!-- style sheets and font icons  -->
     <link rel="stylesheet" type="text/css" href="css/font-icons.min.css" />
     <link rel="stylesheet" type="text/css" href="css/theme-vendors.min.css" />
