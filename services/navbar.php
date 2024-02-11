@@ -4,11 +4,11 @@
     <div class="container-fluid nav-header-container">
         <div class="col-auto col-sm-5 col-lg-2 me-auto ps-lg-0">
             <a class="navbar-brand" href="../index.php">
-                <img src="../images/logo-gradient-tan-geraldine.png" data-at2x="../images/logo-gradient-tan-geraldine@2x.png"
+                <img src="../images/pp-blue-logo.png" data-at2x="../images/pp-blue-logo.png"
                     class="default-logo" alt="" />
-                <img src="../images/logo-gradient-tan-geraldine.png" data-at2x="../images/logo-gradient-tan-geraldine@2x.png"
+                <img src="../images/pp-blue-logo.png" data-at2x="../images/pp-blue-logo.png"
                     class="alt-logo" alt="" />
-                <img src="../images/logo-gradient-tan-geraldine.png" data-at2x="../images/logo-gradient-tan-geraldine@2x.png"
+                <img src="../images/pp-blue-logo.png" data-at2x="../images/pp-blue-logo.png"
                     class="mobile-logo" alt="" />
             </a>
         </div>
@@ -23,7 +23,7 @@
             <div class="collapse navbar-collapse justify-content-left" id="navbarNav">
                 <ul class="navbar-nav alt-font">
                     <li class="nav-item dropdown simple-dropdown">
-                        <a href="products.php" class="nav-link">All Products</a>
+                        <a href="../products.php" class="nav-link">All Products</a>
                         <i class="fa fa-angle-down dropdown-toggle" data-bs-toggle="dropdown" aria-hidden="true"></i>
                         <ul class="dropdown-menu" role="menu">
                             <li class="dropdown simple-dropdown">
